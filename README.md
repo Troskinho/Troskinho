@@ -8,15 +8,14 @@
 <!-- Hero Banner (Azul / Ciano / Preto) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:0052d4,100:00d2ff&height=220&section=header&text=Gabriel%20Ostroski&fontSize=44&fontColor=ffffff&desc=Computa%C3%A7%C3%A3o%20%26%20IA%20%E2%80%A2%20Fullstack%20%E2%80%A2%20Data%20Science%20%26%20ML&descSize=16&descAlignY=65" width="960" alt="Banner de apresentação - Gabriel Ostroski" />
+  
 </p>
 
 # Gabriel de Oliveira Ostroski
 
 **Cursando Computação e Inteligência Artificial pela Universidade Federal do Paraná**
 
-· Desenvolvedor Fullstack com Interesse em Análise de Dados e Machine Learning
-
-Atualmente trabalhando com web scraping e análise de dados fúngicos.
+Desenvolvedor Fullstack com Interesse em Análise de Dados e Machine Learning, atualmente trabalhando com web scraping e análise de dados fúngicos.
 
 <!-- Menu de Navegação Rápida -->
 <p>
@@ -64,14 +63,14 @@ Construo interfaces com React, serviços back-end com Python e Java (Spring Boot
 ## Idiomas
 
 <p>
-  <img src="https://img.shields.io/badge/🇧🇷_Português-Nativo-0052d4?style=for-the-badge&labelColor=1a1b26" height="36" alt="Português" />
+  <img src="https://img.shields.io/badge/🇧🇷_Português-0052d4?style=for-the-badge&labelColor=1a1b26" height="36" alt="Português" />
   <img src="https://img.shields.io/badge/🇺🇸_Inglês-0077b6?style=for-the-badge&labelColor=1a1b26" height="36" alt="Inglês" />
   <img src="https://img.shields.io/badge/🇩🇪_Alemão-00b4d8?style=for-the-badge&labelColor=1a1b26" height="36" alt="Alemão" />
 </p>
 
 ---
 
-## Vamos conversar?
+## Contato:
 
 <p>
   <a href="https://www.linkedin.com/in/gabriel-de-oliveira-ostroski-7b0b972a3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38" alt="LinkedIn" /></a>
@@ -81,6 +80,19 @@ Construo interfaces com React, serviços back-end com Python e Java (Spring Boot
 
 `gabriel.oostroski@gmail.com` · `@Troskinho`
 
+<h2 align="center">📊 Meu GitHub</h2>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ricardobacano&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardobacano&theme=tokyonight" alt="Streak Stats"/>
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardobacano&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
+  </p>
 <!-- Rodapé (Azul / Ciano / Preto) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:0052d4,100:00d2ff&height=120&section=footer" width="960" alt="Rodapé" />
