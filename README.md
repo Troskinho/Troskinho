@@ -13,98 +13,22 @@
   </picture>
 </p>
 
-# [Seu Nome Completo]
+# Gabriel de Oliveira Ostroski
 
-**[Seu Curso ou Cargo Atual] na [Sua Instituição/Empresa] · [Seu Foco, ex: Desenvolvedor(a) Full-Stack / Cibersegurança]**
+**Cursando Computação e Inteligência Artificial Pela Universidade Federal do Paraná**
 
-[Parágrafo 1: Resumo em 1 ou 2 frases do que você cria. Ex: Crio aplicações web, ferramentas de automação e projetos que conectam software, dados e boa experiência de usuário.]
+· Desenvolvedor Fullstack com Interesse em Análise de Dados e Machine Learning
 
-[Parágrafo 2: Sua stack principal e forma de trabalhar. Ex: Trabalho com TECNOLOGIA 1, TECNOLOGIA 2 e TECNOLOGIA 3. Meu foco é transformar ideias em soluções funcionais, com atenção à arquitetura, à usabilidade e aos detalhes.]
+Atualmente trabalhando com web scraping e análise de dados fúngicos.
 
 <!-- Menu de Navegação Rápida -->
 <p>
-  <a href="#projetos-em-destaque"><img src="https://img.shields.io/badge/01-Projetos-6c5ce7?style=for-the-badge" height="36" alt="Projetos" /></a>
   <a href="#tecnologias-e-ferramentas"><img src="https://img.shields.io/badge/02-Tecnologias-6c5ce7?style=for-the-badge" height="36" alt="Tecnologias" /></a>
   <a href="#em-desenvolvimento"><img src="https://img.shields.io/badge/03-Em_andamento-6c5ce7?style=for-the-badge" height="36" alt="Em andamento" /></a>
   <a href="#atividade-pública"><img src="https://img.shields.io/badge/04-Atividade-6c5ce7?style=for-the-badge" height="36" alt="Atividade" /></a>
   <a href="#vamos-conversar"><img src="https://img.shields.io/badge/05-Contato-fd79a8?style=for-the-badge" height="36" alt="Contato" /></a>
 </p>
 
----
-
-## Projetos em destaque
-
-### 01 / [Nome do Projeto 1]
-
-<!-- Banner do Projeto 1 (troque pelo seu banner em assets/ ou mantenha/edite o placeholder) -->
-[![Banner do Projeto 1](https://img.shields.io/badge/PROJETO_01-Nome_do_Projeto_—_Subtítulo_do_Projeto-1a1b26?style=for-the-badge&labelColor=6c5ce7)](https://github.com/SEU-USUARIO/REPOSITORIO-1)
-
-[Descrição curta de 2 linhas explicando o problema que o projeto resolve e como ele funciona.]
-
-- **Recursos:** [funcionalidade 1], [funcionalidade 2], [funcionalidade 3].
-- **Diferencial / Arquitetura:** [destaque técnico, integração de API, IA, banco de dados, etc.].
-- **Stack:** [Linguagem], [Framework Backend], [Framework Frontend] e [Banco de Dados].
-
-**Estado:** [Ex: MVP funcional / Em produção / Concluído].
-
-<p>
-  <a href="https://github.com/SEU-USUARIO/REPOSITORIO-1"><img src="https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&logo=github&logoColor=white" height="36" alt="Ver código" /></a>
-  <a href="https://github.com/SEU-USUARIO/REPOSITORIO-1#readme"><img src="https://img.shields.io/badge/Documentação-6c5ce7?style=for-the-badge" height="36" alt="Arquitetura" /></a>
-</p>
-
-<details>
-<summary>Ver capturas de tela e detalhes técnicos</summary>
-<br />
-
-<!-- Substitua pelo caminho de um print real do seu projeto -->
-![Captura de tela do Projeto 1](https://via.placeholder.com/800x420.png?text=Print+do+Projeto+01)
-
-*Legenda explicando o que aparece na captura de tela acima.*
-
-[Explicação complementar sobre testes, decisões técnicas ou como rodar o projeto localmente.]
-
-[Documentação complementar](https://github.com/SEU-USUARIO/REPOSITORIO-1)
-</details>
-
----
-
-### 02 / [Nome do Projeto 2]
-
-[![Banner do Projeto 2](https://img.shields.io/badge/PROJETO_02-Nome_do_Projeto_—_Subtítulo_do_Projeto-1a1b26?style=for-the-badge&labelColor=fd79a8)](https://github.com/SEU-USUARIO/REPOSITORIO-2)
-
-[Descrição curta de 2 linhas sobre o segundo projeto em destaque.]
-
-- **Principais funcionalidades:** [item 1], [item 2] e [item 3].
-- **Destaques técnicos:** [item técnico relevante].
-- **Stack:** [Tecnologia 1], [Tecnologia 2] e [Tecnologia 3].
-
-<details>
-<summary>Mais detalhes do projeto</summary>
-<br />
-
-![Captura de tela do Projeto 2](https://via.placeholder.com/800x420.png?text=Print+do+Projeto+02)
-
-*Legenda curta contextualizando a imagem.*
-</details>
-
-**Estado:** [Ex: Demonstração pública disponível].
-
-<p>
-  <a href="https://SEU-LINK-DE-DEMO.vercel.app"><img src="https://img.shields.io/badge/Ver_Demo-fd79a8?style=for-the-badge&logo=vercel&logoColor=white" height="36" alt="Demo" /></a>
-  <a href="https://github.com/SEU-USUARIO/REPOSITORIO-2"><img src="https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&logo=github&logoColor=white" height="36" alt="Ver código" /></a>
-</p>
-
----
-
-### 03 / [Nome do Projeto 3 (Em Desenvolvimento)]
-
-![Banner do Projeto 3](https://img.shields.io/badge/PROJETO_03-Nome_do_Projeto_—_Em_desenvolvimento-1a1b26?style=for-the-badge&labelColor=a29bfe)
-
-[Descrição curta de um projeto ou pesquisa que você está construindo atualmente.]
-
-**Estado:** em desenvolvimento · [próximo passo planejado].
-
----
 
 ## Tecnologias e ferramentas
 
