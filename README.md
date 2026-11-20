@@ -6,9 +6,9 @@
 </p>
 
 <!-- Hero Banner (Azul / Ciano / Preto) -->
+<!-- Hero Banner (Azul / Ciano / Preto) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:0052d4,100:00d2ff&height=220&section=header&text=Gabriel%20Ostroski&fontSize=44&fontColor=ffffff&desc=Computa%C3%A7%C3%A3o%20%26%20IA%20%E2%80%A2%20Fullstack%20%E2%80%A2%20Data%20Science%20%26%20ML&descSize=16&descAlignY=65" width="960" alt="Banner de apresentação - Gabriel Ostroski" />
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:0052d4,100:00d2ff&height=220&section=header&text=Gabriel%20Ostroski&fontSize=44&fontColor=ffffff&desc=Computacao%20e%20IA%20%7C%20Fullstack%20%7C%20Data%20Science%20e%20ML&descSize=16&descAlignY=65" width="960" alt="Banner de apresentação - Gabriel Ostroski" />
 </p>
 
 # Gabriel de Oliveira Ostroski
@@ -84,15 +84,9 @@ Construo interfaces com React, serviços back-end com Python e Java (Spring Boot
 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ricardobacano&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardobacano&theme=tokyonight" alt="Streak Stats"/>
-  </p>
-
-  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardobacano&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
   </p>
+
 <!-- Rodapé (Azul / Ciano / Preto) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:0052d4,100:00d2ff&height=120&section=footer" width="960" alt="Rodapé" />
