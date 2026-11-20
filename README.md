@@ -83,8 +83,8 @@ Construo interfaces com React, serviços back-end com Python e Java (Spring Boot
 <h2 align="center">📊 Meu GitHub</h2>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mTh22k&show_icons=true&count_private=true&hide_border=true&title_color=4b0082&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Marquesini github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mTh22k&layout=compact&hide_border=true&title_color=4b0082&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Troskinho&show_icons=true&count_private=true&hide_border=true&title_color=00d2ff&icon_color=0052d4&text_color=c9d1d9&bg_color=0b0f19" alt="Gabriel Ostroski github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Troskinho&layout=compact&hide_border=true&title_color=00d2ff&text_color=c9d1d9&bg_color=0b0f19" alt="Gabriel Ostroski top languages" />
 </div>
 
 <!-- Rodapé (Azul / Ciano / Preto) -->
