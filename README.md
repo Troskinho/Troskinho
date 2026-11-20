@@ -7,7 +7,7 @@
 
 # Gabriel de Oliveira Ostroski
 
-**Cursando Computação e Inteligência Artificial Pela Universidade Federal do Paraná**
+**Cursando Computação e Inteligência Artificial pela Universidade Federal do Paraná**
 
 · Desenvolvedor Fullstack com Interesse em Análise de Dados e Machine Learning
 
@@ -33,12 +33,10 @@ Atualmente trabalhando com web scraping e análise de dados fúngicos.
   <img src="https://img.shields.io/badge/HTML5-1a1b26?style=for-the-badge&logo=html5&logoColor=E34F26" height="36" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1a1b26?style=for-the-badge&logo=css3&logoColor=1572B6" height="36" alt="CSS3" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 
 </p>
 
 Construo interfaces com React e serviços back-end com Python
-[Explique em 1-2 frases como você usa essas linguagens. Ex: Construo interfaces com React e TypeScript, e APIs/serviços back-end com Python.]
 
 
 ### Ferramentas
@@ -49,6 +47,7 @@ Construo interfaces com React e serviços back-end com Python
   <img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=white" height="36" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-1a1b26?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" height="36" alt="VS Code" />
   <img src="https://img.shields.io/badge/Docker-1a1b26?style=for-the-badge&logo=docker&logoColor=2496ED" height="36" alt="Docker" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
 
